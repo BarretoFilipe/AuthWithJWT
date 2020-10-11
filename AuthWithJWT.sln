@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{AEF42018-FF3B-4789-B3CE-34DBA93EE3AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server.API", "Server.API\Server.API\Server.API.csproj", "{BBD8AB05-E9AA-4C76-967A-1808DFCA0B78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{3889C859-6974-44D5-8AB3-2DDE12058DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD8AB05-E9AA-4C76-967A-1808DFCA0B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD8AB05-E9AA-4C76-967A-1808DFCA0B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD8AB05-E9AA-4C76-967A-1808DFCA0B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD8AB05-E9AA-4C76-967A-1808DFCA0B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BBD8AB05-E9AA-4C76-967A-1808DFCA0B78} = {AEF42018-FF3B-4789-B3CE-34DBA93EE3AF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF894160-6E48-46FA-8E4D-FD6B1F7EA977}
+	EndGlobalSection
+EndGlobal
