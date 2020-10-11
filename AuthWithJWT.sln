@@ -9,25 +9,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server.API", "Server.API\Se
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{3889C859-6974-44D5-8AB3-2DDE12058DFA}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Client.Vue", "Client.Vue\", "{A76FA00F-0C7E-4832-83D8-6E5082329F46}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Client.Vue", "client-vue\", "{A76FA00F-0C7E-4832-83D8-6E5082329F46}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_60104"
-		Debug.AspNetCompiler.PhysicalPath = "Client.Vue\"
+		Debug.AspNetCompiler.PhysicalPath = "client-vue\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60104\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_60104"
-		Release.AspNetCompiler.PhysicalPath = "Client.Vue\"
+		Release.AspNetCompiler.PhysicalPath = "client-vue\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60104\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "60104"
-		SlnRelativePath = "Client.Vue\"
+		SlnRelativePath = "client-vue\"
 	EndProjectSection
 EndProject
 Global
